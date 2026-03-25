@@ -1,4 +1,5 @@
-<img width="865" height="410" alt="image" src="https://github.com/user-attachments/assets/82c493cc-219c-4f46-a2a4-4b275d2bc161" /># AlphaSense: 基于动态微调感知引擎的 Web3 量化治理智能体
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/f561a59a-8a55-4218-aa40-e967bea54ef1" />
+# AlphaSense: 基于动态微调感知引擎的 Web3 量化治理智能体
 
 [![OKX Agent Trade Kit](https://img.shields.io/badge/Execution_Engine-OKX_CLI-blue)](#)
 [![OpenClaw](https://img.shields.io/badge/Framework-OpenClaw_Ecosystem-purple)](#)
